@@ -1,4 +1,4 @@
-Count: 5
+Count: 6
 
 # NodeGoat
 
